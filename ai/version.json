@@ -1,6 +1,6 @@
 {
-    "md5": "70dc928b537bc233e3d1e086f5e657d0",
-    "note": "常规优化更新",
+    "md5": "dbb5ff0b867bae3e222f03cc9fe1a27f",
+    "note": "常规优化更新 (2025-12-29)\n重大更新，建议更新",
     "parts": [
         "https://download.probabilitysimulator.top/ai/model_pack.bin.001",
         "https://download.probabilitysimulator.top/ai/model_pack.bin.002",
@@ -10,6 +10,6 @@
         "https://download.probabilitysimulator.top/ai/model_pack.bin.006"
     ],
     "type": "model",
-    "update_time": "2025-12-28 13:10:14",
-    "version": "1.8.6"
+    "update_time": "2025-12-29 02:06:36",
+    "version": "1.8.7"
 }
