@@ -1,15 +1,20 @@
 {
-    "md5": "90851fb867e38a61ab1cd992bbca9a68",
-    "note": "常规优化更新 (2025-12-31)",
+    "md5": "7d33adb045f8051ea923fc6e9609fbc8",
+    "note": "常规优化更新 (2026-01-02)",
     "parts": [
         "https://download.probabilitysimulator.top/ai/model_pack.bin.001",
         "https://download.probabilitysimulator.top/ai/model_pack.bin.002",
         "https://download.probabilitysimulator.top/ai/model_pack.bin.003",
         "https://download.probabilitysimulator.top/ai/model_pack.bin.004",
         "https://download.probabilitysimulator.top/ai/model_pack.bin.005",
-        "https://download.probabilitysimulator.top/ai/model_pack.bin.006"
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.006",
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.007",
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.008",
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.009",
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.010",
+        "https://download.probabilitysimulator.top/ai/model_pack.bin.011"
     ],
     "type": "model",
-    "update_time": "2025-12-31 00:49:03",
-    "version": "1.8.9"
+    "update_time": "2026-01-02 16:58:57",
+    "version": "1.9.0"
 }
