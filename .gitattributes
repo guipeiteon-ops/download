@@ -1,2 +1,4 @@
-*.bin* binary 
-ai/*.bin* binary 
+*.bin binary 
+*.bin.* binary 
+model_pack.bin.* binary 
+*.json text 
